@@ -1,0 +1,9 @@
+.DS_Store
+target/
+project/boot/
+.history
+.cache
+# Ensime specific
+.ensime
+.ensime_cache/
+.ensime_lucene/
